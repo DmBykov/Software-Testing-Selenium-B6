@@ -1,1 +1,2 @@
-# Software-Testing-Selenium-B6
+# software-testing-selenium-B6
+
